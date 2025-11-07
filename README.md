@@ -25,9 +25,9 @@ The setup allows smooth execution of the networking program and easy tracking of
 
 GeeksforGeeks
 
-* [Python.org](https://www.python.org/doc/)
+* [Python.org] (https://www.python.org/doc/)
 
-* [GeeksforGeeks](https://www.geeksforgeeks.org/socket-programming-python/)
+* [GeeksforGeeks] (https://www.geeksforgeeks.org/socket-programming-python/)
 
 * [W3Schools] (https://www.w3schools.com/python/)
 

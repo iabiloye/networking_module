@@ -1,22 +1,17 @@
 """
 Author: Abiloye Iyanuoluwa John
 Project: Network Connection
-Module: Networking
-Description:
-   
+Module: Networking  
 """
 
 # Importing the socket module for network communication
 import socket
 import threading
 
-# -----------------------------
-# SERVER CODE
-# -----------------------------
 def start_server():
-    """Creates a simple server that listens for one client connection."""
+    """server that listens for one client connection."""
     # Define server host and port
-    server_host = '127.0.0.1'  # Localhost (your own computer)
+    server_host = '127.0.0.1'  # Localhost (my computer)
     server_port = 8080         # Port number for connection
 
     # Create a socket object (IPv4, TCP)
